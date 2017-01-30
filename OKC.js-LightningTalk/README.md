@@ -3,6 +3,7 @@ Resources and code examples for my 12/20/16 OKC.js lightning talk on "Node.js Do
 
 ## Slides
 Presentation slides can be found [here](http://slides.com/westyler/deck).
+
 Video of the talk can be found on the Techlahoma YouTube channel [here](https://www.youtube.com/watch?v=odwRlkXlEgU).
 
 ## Relevant Resources:

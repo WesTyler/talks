@@ -2,9 +2,9 @@
 Resources and code examples for my 4/20/17 EnterpriseJS talk on "Node.js API Validation Using Joi - Adding Certainty to a Loosely-Typed World"
 
 ## Slides
-Presentation slides will be found here.
+Presentation slides can be found [here](https://github.com/WesTyler/talks/blob/master/EnterpriseJs/Adding%20Certainty%20to%20a%20Loosely-Typed%20World.pdf).
 
-Video of the talk may end up here.
+Video of the talk should end up here soon.
 
 ## Relevant Resources:
 [Joi](https://github.com/hapijs/joi)
